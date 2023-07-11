@@ -1,0 +1,72 @@
+.nompestaña {
+	background-color: white;
+	width: 80%;
+	max-width: 1000;
+	padding: 10px;
+	margin: 20px auto;
+	color: #00008B;
+}
+
+.funciones {
+	display: flex;
+	width: 80%;
+	max-width: 1000;
+	padding: 10px;
+	margin: 20px auto;
+	background-color: white;
+}
+
+.formulario1{
+	width: 50%;
+	max-width: 1000;
+	margin: 20px ;
+	padding: 10px;
+	float: center;
+	background-color:rgba(181, 178, 178,0.80);
+	border-radius: 20px;
+}
+.formulario2{
+	width: 50%;
+	max-width: 1000;
+	margin: 20px ;
+	padding: 10px;
+	float: center;
+	background-color:rgba(181, 178, 178,0.80);
+	border-radius: 20px;
+}
+
+.titulo {
+	padding: 10px;
+	margin: 20px;
+	font-size: 22px;
+	color: white;
+	background-color: #00008B;
+
+}
+
+#span {
+	display: flex;
+}
+
+.items {
+	width: 80%;
+	background: white;
+	padding: 10px;
+	border-radius: 4px;
+	margin-bottom: 16px;
+	border:1px;
+}
+.items:hover {
+	font-size: 15px;
+}
+.iniciar {
+	width: 40%;
+	background-color: #00008B;
+	border:none;
+	padding: 8px;
+	color: white;
+	margin: 16px ;
+	font-size: 15px;
+	border-radius: 5px;
+	float: l
+}
